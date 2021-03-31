@@ -30,10 +30,10 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://www.istockphoto.com/photo/man-in-hazmat-suit-and-respirator-lifting-a-blue-barrel-gm181852341-25065014)
+![Man](https://images.app.goo.gl/65dk9iJFc1TZTnFS8)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://www.istockphoto.com/photo/man-in-hazmat-suit-and-respirator-lifting-a-blue-barrel-gm181852341-25065014" width="300">
+<img src="https://images.app.goo.gl/65dk9iJFc1TZTnFS8" width="300">
 
 This is how you create code examples:
 ```
@@ -78,5 +78,5 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Istock by Getty Images](https://www.istockphoto.com/photo/man-in-hazmat-suit-and-respirator-lifting-a-blue-barrel-gm181852341-25065014) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: [Istock by Getty Images](https://images.app.goo.gl/65dk9iJFc1TZTnFS8) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
